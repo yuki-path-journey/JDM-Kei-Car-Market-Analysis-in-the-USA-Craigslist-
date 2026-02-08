@@ -67,6 +67,19 @@ I am currently prioritizing this fundamental treatment to ensure I can perform a
 - 外部の補助メンテナンス（接骨院）は、現行プランで継続。
 - [重要] 薬の依存度を下げるためのロードマップを開始。
 
+### 🔍 Project Focus: Solving the Long-term Mystery
+I am analyzing the following data to restore my Jimny to its best condition:
+
+* **Vibration Analysis**: Correlating engine RPM with body vibration.
+* **Fuel Efficiency**: Tracking changes before and after maintenance.
+* **Maintenance History**: Visualizing Long-term of part replacements.
+* **Personal Health**: Correlating vehicle vibration with my neck condition.
+
+振動分析: エンジンの回転数と車体の振動の相関関係。
+燃費効率: メンテナンス前後での燃費の変化を追跡。
+整備履歴: 長年にわたる部品交換の歴史を可視化。
+自身の体調: 車の振動と「首の状態」の関連性を分析。
+
 **20代から現在に至るまで10年以上、一貫してタント・シリーズを愛用これを元に軽自動車のジムニーというアメリカで人気の車を調査中**
 
 今後の分析ターゲット：スズキ・ジムニーの「カラー・アノマリー」
