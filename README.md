@@ -108,3 +108,13 @@ I am analyzing the following data to restore my Jimny to its best condition:
 
 日本国内と海外市場での「色による価値の差」を比較する。
 
+
+                      　　　　　　　　　　　　　　　　　　　　　　　　　　　　---
+---
+### 連絡先 / Contact
+
+JDMのデータ分析やプロジェクトに興味を持っていただけましたら、お気軽にご連絡ください。  
+If you are interested in my JDM data analysis or projects, feel free to reach out.
+
+- **Email**: `ncis.la.no85@gmail.com`
+- **GitHub Profile**: [Back to Profile](https://github.com/yuki-path-journey))
